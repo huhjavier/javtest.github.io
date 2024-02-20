@@ -1,1 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
 
+
+body {
+  color:white;
+background-color:lightgrey ;
+  font-size: 34px;
+  font-weight: bold;
+font-family: 'Roboto Condensed', sans-serif;
+}
+p{
+  text-align: center;
+  position: relative;
+  top: 0px;
+}
